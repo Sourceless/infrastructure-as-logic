@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Book
+title: Infrastructure as Logic
 ---
 
 # The Book
