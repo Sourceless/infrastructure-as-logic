@@ -22,4 +22,4 @@ Stay tuned on [Github](https://github.com/Sourceless/infrastructure-as-logic)
 
 ## Book
 
-The book is WIP - you can read it here: [Read the book](/book/)
+The book is WIP - you can read it here: [Read the book](https://sourceless.org/infrastructure-as-logic/book)
