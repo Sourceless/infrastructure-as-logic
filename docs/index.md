@@ -3,8 +3,6 @@ layout: home
 title: Infrastructure as Logic
 ---
 
-# Infrastructure as Logic
-
 Model, verify, and synthesize infrastructure with logic programming.
 
 Welcome to the home of **Infrastructure as Logic (IaL)** — a new approach to managing infrastructure using logic programming, constraint solving, and goal-directed planning.
