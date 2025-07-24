@@ -18,5 +18,8 @@ Welcome to the home of **Infrastructure as Logic (IaL)** — a new approach to m
 
 We're currently building the language, tooling, and book.
 
-Stay tuned at [github.com/Sourceless/infrastructure-as-logic](https://github.com/Sourceless/infrastructure-as-logic)
+Stay tuned on [Github](https://github.com/Sourceless/infrastructure-as-logic)
 
+## Book
+
+The book is WIP - you can read it here: [Read the book](/book/)
