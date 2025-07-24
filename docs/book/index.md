@@ -10,6 +10,8 @@ WIP, so expect things to change often!
 
 ## Chapters
 
-- [Introduction](01_intro.md)
-- [Facts and Rules](02_facts_and_rules.md)
-- *(more to come...)*
+1. [Foundations](1_Foundations)
+	1.1 [The Infrastructure Crisis](1_Foundations/1.1_The_Infrastructure_Crisis)
+	1.2 [Infrastructure as Code](1_Foundations/1.2_Infrastructure_as_Code)
+	1.3 [Infrastructure as Logic](1_Foundations/1.3_Infrastructure_as_Logic)
+	1.4 [A Toy Infrastructure-as-Logic Language](1_Foundations/1.4_A_Toy_Infrastructure-as-Logic_Language)
