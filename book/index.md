@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Infrastructure as Logic – Book
+title: Book
 ---
 
 # The Book
 
-Welcome to the draft of *Infrastructure as Logic*.
+Welcome to the draft of the *Infrastructure as Logic* book. This is heavy
+WIP, so expect things to change often!
 
 ## Chapters
 
